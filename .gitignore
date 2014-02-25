@@ -1,0 +1,8 @@
+img/*
+graph
+graph.o
+graph.hi
+*.mp4
+dist
+.cabal-sandbox
+cabal.sandbox.config
