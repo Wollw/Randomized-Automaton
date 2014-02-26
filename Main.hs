@@ -36,7 +36,7 @@ rule g node@((state, pos@(x, y)), v, es) =
 
 -- Start value for image file names.
 idStart :: Int
-idStart = 013200
+idStart = 014100
 
 -- An AutomatonGraph is a graph of vertices with nodes
 -- containing both a State and Position
